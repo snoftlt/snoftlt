@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arshiya
 - 👀 I’m interested in Electrical Engineering
-- 🌱 I’m currently learning AI and RUST
+- 🌱 I’m currently fighting with my Homeworks and Projects
 - 😄 Pronouns: HE/HIM
 - 📫 Contact me:
 - Email: tsotl@proton.me
